@@ -53,7 +53,6 @@ For automated testing with the Flipper Zero Playlist Plugin, check out the compa
 This repository contains:
 - **14 brand-specific playlists** for automated signal testing
 - **Flipper Zero Playlist Plugin** ready
-- **Professional KAKUZU headers** on all files
 - **140+ vehicle signals** organized by manufacturer
 
 **Highly Recommended** - Use both repositories together:
