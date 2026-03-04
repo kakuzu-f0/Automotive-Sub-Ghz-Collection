@@ -43,6 +43,23 @@ This collection is organized by automotive regions with consistent `Brand_Model_
 
 I encounter newer cars daily. Also if there is a better/preferred format for collection please let me know. 
 
+## 🔗 Related Projects
+
+### 🎵 Ready-to-Use Playlists
+For automated testing with the Flipper Zero Playlist Plugin, check out the companion repository:
+
+**[Automotive-Sub-Ghz-Playlists](https://github.com/kakuzu-f0/Automotive-Sub-Ghz-Playlists)** ⭐
+
+This repository contains:
+- **14 brand-specific playlists** for automated signal testing
+- **Flipper Zero Playlist Plugin** ready
+- **Professional KAKUZU headers** on all files
+- **140+ vehicle signals** organized by manufacturer
+
+**Highly Recommended** - Use both repositories together:
+- 📁 **Automotive-Sub-Ghz-Collection** - Individual signal files for detailed research
+- 🎵 **Automotive-Sub-Ghz-Playlists** - Ready-to-use playlists for automated testing 
+
 
 
 
