@@ -1,0 +1,16 @@
+Skoda Fabia 2006 Protocol
+=========================
+
+Contributor: Z4men
+Discord Username: zman8124
+
+Protocol Details:
+- Vehicle: Skoda Fabia 2006
+- Protocol: RAW
+- Frequency: Not specified in submission
+- Modulation: Not specified in submission
+
+Files:
+- Skoda_Fabbia_2006_Z4men.sub: Skoda Fabia 2006 remote protocol
+
+Submitted via Automotive Research Firmware (ARF) Discord community

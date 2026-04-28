@@ -1,0 +1,36 @@
+BYD Seal U 2025 Protocol
+========================
+
+Contributor: TommyB
+Discord Username: tommyb3884
+
+Protocol Details:
+- Vehicle: BYD Seal U 2025 Key Fob
+- Protocol: RAW
+- Frequency: 433.92 MHz ASK / OOK
+- Encoding: PWM (Pulse Distance Encoding)
+
+Timing Parameters:
+- Tshort ≈ 70 µs
+- Tmedium ≈ 170 µs
+- Tlong ≈ 330 µs
+- Tbit_sep ≈ 1100 µs
+- Sync ≈ 5000 µs
+- Frame gap ≈ 20000 µs
+
+Bit Encoding:
+- 0 = short HIGH + medium LOW
+- 1 = short HIGH + long LOW
+
+Frame Structure:
+- SYNC + Preamble + Rolling Code Data + CRC
+
+Notes:
+- Multiple frames transmitted per button press
+- Frames differ between transmissions (rolling code)
+- Automotive Remote Keyless Entry system
+
+Files:
+- Seal_U_2025_Apertura_TommyB.sub: BYD Seal U 2025 unlock/open command
+
+Submitted via Automotive Research Firmware (ARF) Discord community

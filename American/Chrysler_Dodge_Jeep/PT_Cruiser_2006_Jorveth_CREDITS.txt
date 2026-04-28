@@ -1,0 +1,19 @@
+Chrysler PT Cruiser 2006 Protocol
+=================================
+
+Contributor: Jorveth
+Discord Username: jorveth_13544
+
+Protocol Details:
+- Vehicle: Chrysler PT Cruiser 2006
+- Protocol: RAW
+- Frequency: 433.89 MHz
+- Modulation: AM650
+- Encoding: PWM
+- Code Type: Static Code
+
+Files:
+- PT_Cruiser_2006_Close_Jorveth.sub: Close/lock command
+- PT_Cruiser_2006_Open_Jorveth.sub: Open/unlock command
+
+Submitted via Automotive Research Firmware (ARF) Discord community

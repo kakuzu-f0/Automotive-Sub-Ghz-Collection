@@ -1,0 +1,17 @@
+Volvo Remote Protocol
+=====================
+
+Contributor: ZoeNetwork-
+Discord Username: ZoeNetwork-
+
+Protocol Details:
+- Vehicle: Volvo (various models)
+- Frequency: 433.657070 MHz
+- Modulation: OOK ASYNC
+- Commands: Unlock (Lu) and Lock (U)
+
+Files:
+- Volvo_lu.sub: Unlock command
+- Volvo_u.sub: Lock command
+
+Submitted via Automotive Research Firmware (ARF) Discord community

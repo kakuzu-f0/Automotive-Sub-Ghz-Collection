@@ -1,0 +1,19 @@
+Peugeot 108 AM650 Protocol
+==========================
+
+Contributor: 𝘼𝙢𝙖𝙪_𝙕𝙚𝙧𝙤
+Discord Username: vaidfn
+
+Protocol Details:
+- Vehicle: Peugeot 108 (recent model)
+- Protocol: AM650
+- Frequency: 433.920000 MHz
+- Modulation: OOK ASYNC
+- Commands: Lock and Unlock
+- Repetitions: 5 lock commands, 5 unlock commands
+
+Files:
+- AM650_lock_1.sub through AM650_lock_5.sub: Lock commands
+- AM650_unlock_1.sub through AM650_unlock_5.sub: Unlock commands
+
+Submitted via Automotive Research Firmware (ARF) Discord community
