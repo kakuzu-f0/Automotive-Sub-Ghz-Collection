@@ -37,7 +37,7 @@ This repository contains **323+ Sub-GHz key fob captures** from various vehicle 
 
 ---
 
-## 🚀 Latest Update (August 2026)
+## 🚀 Latest Update (08/22/2026)
 
 ### 🆕 New Vehicles Added
 
@@ -45,18 +45,7 @@ This repository contains **323+ Sub-GHz key fob captures** from various vehicle 
 - **Honda Accord 2014** — *jazminethecooles2001* (Lock & Unlock)
 
 #### Asian Brands
-- **Lexus IS 2019** — *z4men1991*
-- **Lexus IS300 2021** — *z4men1991*
-- **Lexus NX200t 2017** — *z4men1991*
-- **Toyota Camry 2019** — *z4men1991*
-- **Toyota Corolla 2019** — *z4men1991*
-- **Toyota Corolla Verso 2004-2010** — *z4men1991*
-- **Toyota Estima 2000** — *z4men1991*
-- **Toyota Prius 2006** — *z4men1991*
-- **Toyota RAV4 2023** — *z4men1991*
-- **Toyota Tacoma 2018/2021/2023** — *z4men1991*
-- **Toyota Tundra 2011** — *z4men1991*
-- **24 additional Toyota/Lexus files** — *z4men1991*
+- **Mazda RX8 2007** — *b1eache.r* (Alarm, Lock, Trunk, Unlock) - 433.889 MHz
 
 ---
 
@@ -93,6 +82,26 @@ This repository contains **323+ Sub-GHz key fob captures** from various vehicle 
 | **BYD** | 9 |
 | **Mazda** | 9 |
 | **Nissan** | 9 |
+
+---
+
+## 👏 Credits
+
+### New Contributors
+| **jazminethecooles2001 (asdasdads)** | Honda Accord 2014 |
+| **b1eache.r (𝘽1𝙚𝙖𝙘𝙝𝙚𝙧)** | Mazda RX8 2007 |
+
+### Original Author
+- **mrcap665** — Original collection and research
+
+### ARF Discord Community Contributors
+Special thanks to the **ARF (Automotive Research Firmware) Discord community** and **D4C1-Labs Flipper-ARF** project.
+
+| Contributor | Vehicles |
+|-------------|----------|
+| **z4men1991** | Toyota/Lexus collection (24+ files) |
+| **jazminethecooles2001** | Honda Accord 2014 |
+| **b1eache.r** | Mazda RX8 2007 |
 
 ---
 
