@@ -1,0 +1,10 @@
+Filetype: Flipper SubGhz Key File
+Version: 1
+Frequency: 433920000
+Preset: FuriHalSubGhzPresetOok650Async
+Protocol: MARELLI
+Bit: 102
+Key: FF FE 92 80 94 A4 8F 41
+Extra: 629215766
+Extra_bits: 38
+TE: 103
